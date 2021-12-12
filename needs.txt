@@ -1,0 +1,4 @@
+SpeechRecognition
+gTTS
+playsound
+PyAudio = pipenv install pipwin, pipwin instal PyAudio
